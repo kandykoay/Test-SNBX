@@ -1,12 +1,12 @@
 # Introduction
 
-The Saferpay JSON API (**J**ava**S**cript **O**bject **N**otation **A**pplication **P**rogramming **I**nterface), hereinafter also referred to as JA, is a modern streamlined interface that is independent of programming languages. The JA supports all Saferpay methods and is suitable for all shop systems, call centre solutions, merchandise management, ERP and CRM systems and other applications in which online payments are processed. This Integration Guide focuses on the basics of the Saferpay JSON API and serves as a guide for programmers, developers and integrators.
+The Saferpay JSON API (**J**ava**S**cript **O**bject **N**otation **A**pplication **P**rogramming **I**nterface), hereinafter also referred to as JA, is a modern streamlined interface that is independent of programming languages. The JA supports all Saferpay methods and is suitable for all shop systems, call centre solutions, merchandise management, ERP and CRM systems and other applications in which online payments are processed. This Integration Guide focuses on the basics of the Saferpay JSON API and serves as a guide for programmers, developers and integrators. 
 
 This Guide uses the [Saferpay JSON-API Specification](https://saferpay.github.io/jsonapi/) as a base reference and will frequently link to the respective Requests. All requests and parameters will be specified there.
 
 ## <a name="intro-requirement"></a> Requirements
 
-Use of the JA requires the following:
+Use of the JA requires the following: TEST TEST
 
 *	A corresponding licence for the Saferpay module.
 *	The existence of a valid identification with a username and password for the Saferpay Backoffice.
