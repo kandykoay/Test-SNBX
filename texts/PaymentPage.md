@@ -2,6 +2,8 @@
 
 The [Saferpay Payment Page](https://saferpay.github.io/jsonapi/#ChapterPaymentPage) can be used both with a Saferpay eCommerce contract and with a Saferpay business contract. It allows the processing of all payment methods available through Saferpay. Once integrated, more payment methods can also be activated at any time and without major adjustments.
 
+test test
+
 ## Description of the General Process for Using PaymentPage
 
 ### <a name="pp-initialize"></a> PaymentPage Initialize
